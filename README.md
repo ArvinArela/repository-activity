@@ -1,4 +1,4 @@
-# Git Activity 1
+# Git Activity 2
 
 Simple overview of use/purpose.
 
