@@ -1,4 +1,4 @@
-# Test Repo Center
+# Git Activity 1
 
 Simple overview of use/purpose.
 
