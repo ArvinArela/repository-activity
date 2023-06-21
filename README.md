@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Activity 3 For Git <!--Change Act 3-->
-=======
-# Git Activity 2
->>>>>>> bb4d9c33952e100195082911d1212987c83147f3
 
 Simple overview of use/purpose.
 
