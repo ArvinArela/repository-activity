@@ -1,4 +1,4 @@
-# Git Activity 1
+# Activity 3 For Git <!--Change Act 3-->
 
 Simple overview of use/purpose.
 
